@@ -1,2 +1,2 @@
 # Coursera_Capstone
-The repository contains work for Coursera course 
+The repository contains notebooks for Coursera course 
